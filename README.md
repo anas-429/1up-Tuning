@@ -1,1 +1,1 @@
-# 1up-Tuning
+© Copyright 2022. All Rights Reserved.
