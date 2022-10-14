@@ -20,24 +20,6 @@ a {
     margin: 0;
 }
 
-/*SCROLLBAR*/
-
-::-webkit-scrollbar {
-    width: 18px;
-}
-
-::-webkit-scrollbar-track {
-    background: #F8F8F8;
-}
-
-::-webkit-scrollbar-thumb {
-    background: #D4D4D4;
-}
-
-::-webkit-scrollbar-thumb:hover {
-    cursor: pointer;
-}
-
 /*BODY*/
 
 body { 
@@ -240,7 +222,7 @@ iframe {
 }
 
 .flex-center-left { 
-    justify-content: left;
+    justify-content: flex-start;
     align-items: center;
 }
 
@@ -250,7 +232,7 @@ iframe {
 
 .flex-column-center-left {
     justify-content: center;
-    align-items: left;
+    align-items: flex-start;
 }
 
 .flex-between {
